@@ -232,7 +232,7 @@ def main(argv=None):
             for p1, p2 in nwise(trail):
                 pygame.draw.line(screen, trail_color, p1, p2)
 
-        screen.blit(rect_image, rect_image.get_rect(center=rect.center))
+        screen.blit(rect_image, rect)
         pygame.display.flip()
 
         if args.frames:
