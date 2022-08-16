@@ -2,12 +2,12 @@
 
 Casually exploring Pygame animation using lerp and functions.
 
-# assets
+## assets
 
 inkscape required
 
 run `make`
 
-# export frames and make video
+## export frames and make video
 
 `make movie`
