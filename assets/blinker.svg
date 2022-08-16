@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.82028mm"
+   height="145.82028mm"
+   viewBox="0 0 145.82028 145.82028"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="blinker.svg"
+   inkscape:export-filename="../dist/blinker2.png"
+   inkscape:export-xdpi="43.546753"
+   inkscape:export-ydpi="43.546753"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0705244"
+     inkscape:cx="275.56589"
+     inkscape:cy="275.09883"
+     inkscape:window-width="1918"
+     inkscape:window-height="1028"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="frame0"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.218948,-52.704475)"
+     style="display:inline">
+    <circle
+       style="fill:#dd5f39;fill-opacity:1;stroke-width:1;stroke-opacity:0.5"
+       id="path234"
+       cx="93.129089"
+       cy="125.61462"
+       r="72.910141" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="frame1"
+     style="display:none;opacity:1"
+     transform="translate(-37.690663,-58.574728)">
+    <ellipse
+       style="fill:#131313;fill-opacity:1;stroke-width:1;stroke-opacity:0.5"
+       id="path951"
+       cx="84.582718"
+       cy="114.09464"
+       rx="15.293243"
+       ry="30.586487"
+       inkscape:export-filename="../dist/blinker0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c4caca;fill-opacity:1;stroke-width:0.251675;stroke-opacity:0.5"
+       id="ellipse3085"
+       cx="89.152443"
+       cy="104.30927"
+       rx="5.0102506"
+       ry="5.9135756" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path951"
+       id="use3087"
+       transform="translate(50.124207)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#ellipse3085"
+       id="use3089"
+       transform="translate(50.124207)" />
+    <path
+       style="fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.916268,167.07997 c 39.276708,-8.69301 129.237562,-25.847 116.377452,-2.85959 -12.64896,22.60996 -30.94938,37.82579 -56.18434,37.45264 -19.038477,-0.28152 -40.439948,-7.18144 -60.193112,-34.59305 z"
+       id="path3162"
+       sodipodi:nodetypes="cssc" />
+    <path
+       id="path3990"
+       style="fill:#c4caca"
+       d="m 147.47885,152.73125 c -20.52441,0.13657 -51.500158,5.34247 -75.882703,10.21126 3.028106,5.5317 71.501983,6.52258 74.745313,4.45812 2.3089,-1.46967 9.37232,-4.18239 7.03781,-14.54691 -1.84864,-0.0962 -3.81845,-0.13633 -5.90042,-0.12247 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="frame2"
+     style="display:none"
+     transform="translate(-37.690663,-58.574728)">
+    <path
+       id="ellipse4004"
+       style="opacity:1;fill:#131313;fill-opacity:1;stroke-width:1;stroke-opacity:0.5"
+       d="m 98.530703,101.55608 a 15.293243,30.586487 0 0 1 -13.947986,18.06866 15.293243,30.586487 0 0 1 -13.945402,-18.05833 15.293243,30.586487 0 0 0 -1.347722,12.52843 15.293243,30.586487 0 0 0 15.293124,30.58625 15.293243,30.586487 0 0 0 15.293126,-30.58625 15.293243,30.586487 0 0 0 -1.34514,-12.53876 z" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#ellipse4004"
+       id="use4011"
+       transform="translate(50.124207)" />
+    <path
+       style="display:inline;fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.916268,167.07997 c 39.276708,-8.69301 129.237562,-25.847 116.377452,-2.85959 -12.64896,22.60996 -30.94938,37.82579 -56.18434,37.45264 -19.038477,-0.28152 -40.439948,-7.18144 -60.193112,-34.59305 z"
+       id="path3162-3"
+       sodipodi:nodetypes="cssc" />
+    <path
+       id="path3990-6"
+       style="display:inline;fill:#c4caca"
+       d="m 147.47885,152.73125 c -20.52441,0.13657 -51.500158,5.34247 -75.882703,10.21126 3.028106,5.5317 71.501983,6.52258 74.745313,4.45812 2.3089,-1.46967 9.37232,-4.18239 7.03781,-14.54691 -1.84864,-0.0962 -3.81845,-0.13633 -5.90042,-0.12247 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="frame3"
+     style="display:inline"
+     transform="translate(-37.690663,-58.574728)">
+    <path
+       id="ellipse4004-7"
+       style="fill:#131313;fill-opacity:1;stroke-width:0.353367;stroke-opacity:0.5"
+       d="m 98.683832,138.84814 a 15.293243,3.8192892 0 0 1 -13.947986,2.2562 15.293243,3.8192892 0 0 1 -13.945402,-2.25491 15.293243,3.8192892 0 0 0 -1.347722,1.5644 15.293243,3.8192892 0 0 0 15.293124,3.81926 15.293243,3.8192892 0 0 0 15.293124,-3.81926 15.293243,3.8192892 0 0 0 -1.345138,-1.56569 z" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#ellipse4004-7"
+       id="use4011-5"
+       transform="translate(50.124207)" />
+    <path
+       style="display:inline;fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.069397,166.63197 c 39.276708,-8.69301 129.237563,-25.847 116.377453,-2.85959 -12.64896,22.60996 -30.94938,37.82579 -56.18434,37.45264 -19.038478,-0.28152 -40.439949,-7.18144 -60.193113,-34.59305 z"
+       id="path3162-3-3"
+       sodipodi:nodetypes="cssc" />
+    <path
+       id="path3990-6-5"
+       style="display:inline;fill:#c4caca"
+       d="m 147.63198,152.28325 c -20.52441,0.13657 -51.500159,5.34247 -75.882704,10.21126 3.028106,5.5317 71.501984,6.52258 74.745314,4.45812 2.3089,-1.46967 9.37232,-4.18239 7.03781,-14.54691 -1.84864,-0.0962 -3.81845,-0.13633 -5.90042,-0.12247 z" />
+  </g>
+</svg>
